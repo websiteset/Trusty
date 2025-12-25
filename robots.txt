@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://trusty-10v.pages.dev/sitemap.xml
